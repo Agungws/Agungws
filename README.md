@@ -12,8 +12,8 @@
 
 <h3> :man: &nbsp;About Me </h3>
 
-- 😄 Pronouns: He / Him
 - 🔭 I’m currently working on: Fullstack Engineer and AI Researcher
+- 📫 &nbsp; How to reach me: wicaksono1404@gmail.com.
 - ❤️ My favorite language: Dart and Go 
 - 🌱 I’m currently learning: Neural Network , Android Mobile Programming and Clean Architecture
 - 👯 I’m always looking to collaborate with: scientist from any field
@@ -47,13 +47,6 @@
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/iampavangandhi).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: pavangandhi100@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
 
 ### My Absolute Favorites:
 
@@ -93,7 +86,7 @@
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Agungws&hide_border=true" />
+<!--   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Agungws&hide_border=true" /> -->
 </details>
 
 <details>
@@ -114,7 +107,7 @@
 	<td><a href="https://github.com/Agungws/Etalase"><b>📱 Etalase</b></a></td>
       </tr>
       <tr>
-	<td><a href="https://github.com/iampavangandhi/TheNodeCourse"><b>💻 Logistic System</b></a></td>
+	<td><a href="https://github.com/Agungws/LSystem"><b>💻 Logistic System</b></a></td>
       </tr>
     </tbody>
   </table>
