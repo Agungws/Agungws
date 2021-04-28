@@ -10,17 +10,16 @@
 
 <img align="left" height="270px" alt="hello_world" src="pic.png" />
 
-<h3> :woman: &nbsp;About Me </h3>
+<h3> :man: &nbsp;About Me </h3>
 
-- 😄 Pronouns: She/Her/Hers 
-- 🔭 I’m currently working on: an NLP sentiment analysis project
-- :heart: My favorite language: SQL
-- 🌱 I’m currently learning: nueral nets and Mandarin
+- 😄 Pronouns: He / Him
+- 🔭 I’m currently working on: Fullstack Engineer and AI Researcher
+- ❤️ My favorite language: Dart and Go 
+- 🌱 I’m currently learning: Neural Network , Android Mobile Programming and Clean Architecture
 - 👯 I’m always looking to collaborate with: scientist from any field
-- 💬 Ask me about: anything, I am happy to help
-- 🌍 I support: Latinas in Tech, AllStar Code, The Foundation to Decrease Worldsuck
-- 💜 Interests: philosophy, travel, dachshunds, internet culture, video games, Star Trek
-- ⚡ Fun fact: My ultimate dream is to be on Star Trek and dawn a yellow uniform. 🖖
+- 💬 Ask me about: anything, I am happy to help 
+- 💜 Interests: Programming, Badminton, Travel, volley, internet culture, Swimming,
+- 🌍 Fun fact: My ultimate dream is to be on Star Trek and dawn a yellow uniform. 🖖
 
 <br/>
 
@@ -114,7 +113,7 @@
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/iampavangandhi/Gitwar"><b>🚀 Gitwar</b></a></td>
+	<td><a href="https://github.com/iampavangandhi/Gitwar"><b>🚀 Gitwar</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/Gitwar?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/Gitwar?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/Gitwar?style=flat-square"/></td>
@@ -122,7 +121,7 @@
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/Gitwar?style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/iampavangandhi/TradeByte"><b>💸 TradeByte</b></a></td>
+	<td><a href="https://github.com/iampavangandhi/TradeByte"><b>💸 TradeByte</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/TradeByte?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/TradeByte?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/TradeByte?style=flat-square"/></td>
