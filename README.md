@@ -49,7 +49,7 @@ By using the Health Passport and capturing your health information, your health 
 **Available for both iOS and Android.**
 
 <p align="center">
-  <img src = "http://i.imgur.com/HowF6aM.png" width=350>
+  <img src = "" width=350>
 </p>
 
 ## Features
