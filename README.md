@@ -54,10 +54,11 @@ By using the Health Passport and capturing your health information, your health 
 
 ## Features
 
-A few of the things you can do with "Name Apps":
+A few of the things you can do with "Safecosy":
 
-* Example 1
-* Example 2
+* Monitoring health condition
+* Monitoring travel history
+* Access Certified Infrastructure 
 
 <p align="center">
   <img src = "" width=700>
@@ -69,7 +70,7 @@ A few of the things you can do with "Name Apps":
 
 ## Feedback
 
-Feel free to send us feedback on [Whatsapp](https://wa.me/) or [file an issue](https://github.com/gitpoint/git-point/issues/new). Feature requests are always welcome. If you wish to contribute, please take a quick look at the [guidelines](./CONTRIBUTING.md)!
+Feel free to send us feedback on [Whatsapp](https://wa.me/+6281233661927) or [file an issue](https://github.com/gitpoint/git-point/issues/new). Feature requests are always welcome.
 
 If there's anything you'd like to chat about, please feel free to join our [Admin Chat](https://wa.me/+6281233661927)!
 
@@ -100,7 +101,7 @@ $ make build-ios-prd
 
 Please take a look at the [contributing guidelines](./CONTRIBUTING.md) for a detailed process on how to build your application as well as troubleshooting information.
 
-**Development Keys**: The `CLIENT_ID` and `CLIENT_SECRET` in `api/index.js` are for development purposes and do not represent the actual application keys. Feel free to use them or use a new set of keys by creating an [OAuth application](https://github.com/settings/applications/new) of your own. Set the "Authorization callback URL" to `gitpoint://welcome`.
+**Development Keys**: The `CLIENT_ID` and `CLIENT_SECRET` in `api/index.js` are for development purposes and do not represent the actual application keys. Feel free to use them.
 
 ## Backers [![Backers on Open Collective](https://opencollective.com/git-point/backers/badge.svg)](#backers)
 
