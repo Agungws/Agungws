@@ -60,11 +60,11 @@ A few of the things you can do with "Name Apps":
 * Example 2
 
 <p align="center">
-  <img src = "http://i.imgur.com/IkSnFRL.png" width=700>
+  <img src = "" width=700>
 </p>
 
 <p align="center">
-  <img src = "http://i.imgur.com/0iorG20.png" width=700>
+  <img src = "" width=700>
 </p>
 
 ## Feedback
