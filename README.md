@@ -24,6 +24,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Table of Contents
 
+- [Documentation](#documentation)
 - [Introduction](#introduction)
 - [Features](#features)
 - [Feedback](#feedback)
@@ -34,6 +35,8 @@
 - [Acknowledgments](#acknowledgments)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+## Documentation
+- [Install Flutter](https://flutter.dev/get-started)
 
 ## Introduction
 
@@ -73,10 +76,6 @@ Feel free to send us feedback on [Whatsapp](https://wa.me/) or [file an issue](h
 
 If there's anything you'd like to chat about, please feel free to join our [Admin Chat](https://wa.me/+6281233661927)!
 
-## Contributors
-
-This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification and is brought to you by these [awesome contributors](./CONTRIBUTORS.md).
-
 ## Build Process
 
 - Follow the [Flutter Guide](https://facebook.github.io/react-native/docs/getting-started.html) for getting started building a project with native code. **A Mac is required if you wish to develop for iOS.**
@@ -94,7 +93,7 @@ Please take a look at the [contributing guidelines](./CONTRIBUTING.md) for a det
 
 ## Backers [![Backers on Open Collective](https://opencollective.com/git-point/backers/badge.svg)](#backers)
 
-Thank you to all our backers! 🙏 (https://opencollective.com/git-point#backer)]
+Thank you to Artek Team! 🙏 (https://arteksinergi.co.id)]
 
 <!-- <a href="https://opencollective.com/git-point#backers" target="_blank"><img src="https://opencollective.com/git-point/backers.svg?width=890"></a> -->
 
