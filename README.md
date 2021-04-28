@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  GitHub in your pocket. Built with Flutter.
+  This has information about your health that belongs to you.
 </p>
 
 <p align="center">
@@ -44,7 +44,7 @@
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=flat-square)](http://commitizen.github.io/cz-cli/)
 [![Gitter chat](https://img.shields.io/badge/chat-on_gitter-008080.svg?style=flat-square)](https://gitter.im/git-point)
 
-View repository and user information, control your notifications and even manage your issues and pull requests. Built with Flutter, "Apps Name" is one of the most feature-rich unofficial GitHub clients that is 100% free.
+By using the Health Passport and capturing your health information, your health conditions can be monitored and analyzed. Based on the health parameters, Health Passport QR codes are given corresponding colors indicating your current health condition and suggests appropriate actions.
 
 **Available for both iOS and Android.**
 
@@ -69,9 +69,9 @@ A few of the things you can do with "Name Apps":
 
 ## Feedback
 
-Feel free to send us feedback on [Twitter](https://twitter.com/gitpointapp) or [file an issue](https://github.com/gitpoint/git-point/issues/new). Feature requests are always welcome. If you wish to contribute, please take a quick look at the [guidelines](./CONTRIBUTING.md)!
+Feel free to send us feedback on [Whatsapp](https://wa.me/) or [file an issue](https://github.com/gitpoint/git-point/issues/new). Feature requests are always welcome. If you wish to contribute, please take a quick look at the [guidelines](./CONTRIBUTING.md)!
 
-If there's anything you'd like to chat about, please feel free to join our [Gitter chat](https://gitter.im/git-point)!
+If there's anything you'd like to chat about, please feel free to join our [Admin Chat](https://wa.me/+6281233661927)!
 
 ## Contributors
 
@@ -79,10 +79,12 @@ This project follows the [all-contributors](https://github.com/kentcdodds/all-co
 
 ## Build Process
 
-- Follow the [React Native Guide](https://facebook.github.io/react-native/docs/getting-started.html) for getting started building a project with native code. **A Mac is required if you wish to develop for iOS.**
+- Follow the [Flutter Guide](https://facebook.github.io/react-native/docs/getting-started.html) for getting started building a project with native code. **A Mac is required if you wish to develop for iOS.**
 - Clone or download the repo
+``` shell script
+$ git clone https://github.com/Agungw14/
+```
 - `flutter pub get` to install dependencies
-- `yarn run link` to link react-native dependencies
 - `flutter run` to start the packager and run the app in the iOS simulator (`flutter run` will boot the application with [redux-logger](<https://github.com/evgenyrodionov/redux-logger>))
 - `flutter run` to start the packager and run the app in the the Android device/emulator (`flutter run` will boot the application with [redux-logger](https://github.com/evgenyrodionov/redux-logger))
 
