@@ -24,7 +24,6 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Table of Contents
 
-- [Documentation](#documentation)
 - [Introduction](#introduction)
 - [Features](#features)
 - [Feedback](#feedback)
@@ -35,8 +34,6 @@
 - [Acknowledgments](#acknowledgments)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-## Documentation
-- [Install Flutter](https://flutter.dev/get-started)
 
 ## Introduction
 
@@ -78,14 +75,28 @@ If there's anything you'd like to chat about, please feel free to join our [Admi
 
 ## Build Process
 
-- Follow the [Flutter Guide](https://facebook.github.io/react-native/docs/getting-started.html) for getting started building a project with native code. **A Mac is required if you wish to develop for iOS.**
+- Follow the [Flutter Guide](https://flutter.dev/get-started) for getting started building a project with flutter. **A Mac is required if you wish to develop for iOS.**
+
 - Clone or download the repo
 ``` shell script
 $ git clone https://github.com/Agungw14/
 ```
-- `flutter pub get` to install dependencies
-- `flutter run` to start the packager and run the app in the iOS simulator (`flutter run` will boot the application with [redux-logger](<https://github.com/evgenyrodionov/redux-logger>))
-- `flutter run` to start the packager and run the app in the the Android device/emulator (`flutter run` will boot the application with [redux-logger](https://github.com/evgenyrodionov/redux-logger))
+- Get Dependecies
+``` shell script
+$ flutter pub get
+```
+- To start the packager and run the app in the the Android device/emulator
+``` shell script
+$ flutter run
+$ make build-android-dev
+$ make build-android-prd
+```
+- To start the packager and run the app in the iOS simulator 
+``` shell script
+$ flutter run
+$ make build-ios-dev
+$ make build-ios-prd
+```
 
 Please take a look at the [contributing guidelines](./CONTRIBUTING.md) for a detailed process on how to build your application as well as troubleshooting information.
 
