@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on: Fullstack Engineer and AI Researcher
 - 📫 &nbsp; How to reach me: wicaksono1404@gmail.com.
-- ❤️ My favorite language: Dart and Go 
+- ❤️ My favorite language: Dart , Go, .Net 
 - 🌱 I’m currently learning: Neural Network , Android Mobile Programming and Clean Architecture
 - 👯 I’m always looking to collaborate with: scientist from any field
 - 💬 Ask me about: anything, I am happy to help 
